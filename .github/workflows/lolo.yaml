@@ -1,4 +1,3 @@
-yaml
 name: Analyse sécurité avec Bandit
 
 on: [push]
